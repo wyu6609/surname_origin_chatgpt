@@ -30,4 +30,5 @@ You must use your own OpenAI API key. Get it from:
 👉https://platform.openai.com/account/api-keys
 
 ## Run the application
+👉pip install -r requirements.txt
 👉python surname_origin_chatgpt_cli.py
