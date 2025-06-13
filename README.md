@@ -23,3 +23,11 @@ Fetching from ChatGPT...
 
 Result for 'Rossi':
 The surname 'Rossi' is of Italian origin. It derives from the word "rosso," meaning red, and was originally a nickname for someone with red hair.
+```
+
+## Create your .env file
+You must use your own OpenAI API key. Get it from:
+👉https://platform.openai.com/account/api-keys
+
+## Run the application
+👉python surname_origin_chatgpt_cli.py
