@@ -26,9 +26,9 @@ The surname 'Rossi' is of Italian origin. It derives from the word "rosso," mean
 ```
 
 ## Create your .env file
-You must use your own OpenAI API key. Get it from:
+You must use your own OpenAI API key. Get it from: <br>  
 👉https://platform.openai.com/account/api-keys
 
 ## Run the application
-👉pip install -r requirements.txt
+👉pip install -r requirements.txt <br>
 👉python surname_origin_chatgpt_cli.py
